@@ -25,10 +25,10 @@ try:
         database='sql5764068'
     )
     if connection.is_connected():
-        print("Connection successful!")
+        print("\nConnection successful!")
 
 except Error as e:
-    print(f"An error occurred: {e} ")
+    print(f"\nAn error occurred: {e} ")
 
 cursor = connection.cursor()
 
@@ -59,7 +59,11 @@ def database_to_csv():
         cursor.close()
         connection.close()
 
-user = input("Would you like to save the data to csv?: ").lower()
+user = input("\nWould you like to save the data to csv? (y/n): ").lower()
 if user == 'y':
     database_to_csv()
-    print(f'saved data to csv files')
+    print(f'\nSuccess! Saved data to csv files')
+elif user == 'n':
+    print("Closing program")
+else:
+    print("\nInvalid entry. Program closed")
