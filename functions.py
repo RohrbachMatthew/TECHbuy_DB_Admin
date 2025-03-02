@@ -77,7 +77,7 @@ def select_all_members(cursor):
     cursor.execute('Select * from members')
     rows = cursor.fetchall()
     headers = ['MemberID', 'First Name', 'Last Name', 'Phone', 'Email', 'Date Of Birth',
-               'Country', 'Region', 'City', 'Address', 'Joined Date']
+               'Country', 'City', 'Address', 'Joined Date']
 
     print(tabulate(rows, headers=headers, tablefmt='grid'))
 
@@ -98,7 +98,7 @@ def search_members(cursor):
     cursor.execute(query, value)
     rows = cursor.fetchall()
     headers = ['MemberID', 'First Name', 'Last Name', 'Phone', 'Email', 'Date Of Birth',
-               'Country', 'Region', 'City', 'Address', 'Joined Date']
+               'Country', 'City', 'Address', 'Joined Date']
     print(tabulate(rows, headers=headers, tablefmt='grid'))
 
 def add_new_member(cursor, connection):
