@@ -1,30 +1,30 @@
-productID,serial_number,product_name,category,price,manufacturing_cost,stock_quantity,image_url
-1,SN1001,Dell Inspiron Laptop,Computers,299.99,150.00,10,https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVsbCUyMGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D
-2,SN1002,HP Pavilion,Computers,350.00,250.00,10,https://images.unsplash.com/photo-1569441508845-c6da9a35924c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEhQJTIwUGF2aWxpb24lMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D
-3,SN1003,Lenovo ThinkPad,Computers,1100.00,650.00,8,https://images.unsplash.com/photo-1705508216613-be1715a31212?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVub3ZvJTIwVGhpbmtQYWQlMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D
-4,SN1004,Apple iMac,Computers,1200.00,725.00,8,https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEFwcGxlJTIwaU1hYyUyMGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D
-5,SN1005,Acer Aspire,Computers,499.99,250.00,12,https://media.istockphoto.com/id/1485172570/photo/close-up-of-bright-office-workplace-with-empty-mock-up-laptop-screen-decorative-plant-and.webp?a=1&b=1&s=612x612&w=0&k=20&c=NseSLGUOSoQQNQeaHiMrn1BnG0j1itiKpcb_i1umFjY=
-6,SN1006,Asus ZenBook,Computers,750.50,325.99,8,https://images.unsplash.com/photo-1636211993589-6daf32038bd1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QXN1cyUyMFplbkJvb2t8ZW58MHx8MHx8fDA%3D
-7,SN1007,Microsoft Surface,Computers,999.99,550.00,12,https://images.unsplash.com/photo-1596347909615-401e4242b3b2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWljcm9zb2Z0JTIwU3VyZmFjZXxlbnwwfHwwfHx8MA%3D%3D
-8,SN1008,HP Envy Desktop,Computers,899.99,450.00,18,https://plus.unsplash.com/premium_photo-1681816189679-fa02d1acd1de?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SFAlMjBFbnZ5JTIwRGVza3RvcHxlbnwwfHwwfHx8MA%3D%3D
-9,SN2001,Apple iPad Air,Devices,599.99,300.00,12,
-10,SN2002,Samsung Galaxy Tab,Devices,599.99,300.00,10,
-11,SN2003,Amazon Fire HD,Devices,124.99,70.00,20,
-12,SN2004,Microsoft Surface Go,Devices,399.99,200.00,15,
-13,SN2005,Lenovo Tab Pro,Devices,450.00,200.00,8,
-14,SN3001,HP LaserJet Printer,Office,180.00,90.00,16,
-15,SN3002,Canon Inkjet Printer,Office,129.99,60.00,10,
-16,SN3003, Fujitsu ScanSnap Scanner,Office,399.99,200.00,8,
-17,SN3004,Brother ADS Wireless Scanner,Office,299.99,145.00,5,
-18,SN3005,Lexmark Multifunction Printer,Office,249.99,115.00,6,
-19,SN4001,Logitech Master Mouse,Peripherals,79.99,45.00,20,
-20,SN4002,Microsoft Ergonomic Keyboard,Peripherals,59.99,25.00,25,
-21,SN4003,Logitech HD Webcam,Peripherals,74.99,38.00,18,
-22,SN4004,Razer DeathAdder Gaming Mouse,Peripherals,65.99,32.00,20,
-23,SN4005,Blue Yeti USB Microphone,Peripherals,129.99,65.00,18,
-24,SN4006,Jabra Evolve Headset,Peripherals,245.00,115.00,20,
-25,SN5001,Samsung Portable SSD 1TB,Storage,129.99,60.00,8,
-26,SN5002,SanDisk 128GB USB Flash Drive,Storage,29.99,15.00,12,
-27,SN5003,WD 4TB External Hard Drive,Storage,99.99,45.00,10,
-28,serial test,name test,catgegory test,0.00,0.00,1,null
-29,test2,test2,test,0.00,0.00,1,null
+productID,serial_number,product_name,category,price,manufacturing_cost,stock_quantity,image_url,details
+1,SN1001,Dell Inspiron Laptop,Computers,299.99,150.00,10,https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVsbCUyMGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D,"15.6 inch FHD display, up to 16 GB DDR4 memory, and up to 512 GB SSD storage. It runs on Windows 11 Home."
+2,SN1002,HP Pavilion,Computers,350.00,250.00,10,https://images.unsplash.com/photo-1569441508845-c6da9a35924c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEhQJTIwUGF2aWxpb24lMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D,"15.6 FHD display, up to 16 GB DDR4 memory, and up to 512 GB SSD storage, and runs on Windows 11 Home."
+3,SN1003,Lenovo ThinkPad,Computers,1100.00,650.00,8,https://images.unsplash.com/photo-1705508216613-be1715a31212?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TGVub3ZvJTIwVGhpbmtQYWQlMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D,"14 inch FHD display, up to 32 GB LPDDR5 memory, and up to 1 TB SSD storage. It runs on Windows 11 Pro."
+4,SN1004,Apple iMac,Computers,1200.00,725.00,8,https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEFwcGxlJTIwaU1hYyUyMGxhcHRvcHxlbnwwfHwwfHx8MA%3D%3D," 24 inch 4.5K Retina display, up to 32 GB unified memory, and up to 2 TB SSD storage. It runs on macOS."
+5,SN1005,Acer Aspire,Computers,499.99,250.00,12,https://media.istockphoto.com/id/1485172570/photo/close-up-of-bright-office-workplace-with-empty-mock-up-laptop-screen-decorative-plant-and.webp?a=1&b=1&s=612x612&w=0&k=20&c=NseSLGUOSoQQNQeaHiMrn1BnG0j1itiKpcb_i1umFjY=,"15.6 FHD display, up to 36 GB DDR4 memory, and up to 2 TB SSD storage. It runs on Windows 11 Home."
+6,SN1006,Asus ZenBook,Computers,750.50,325.99,8,https://images.unsplash.com/photo-1636211993589-6daf32038bd1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QXN1cyUyMFplbkJvb2t8ZW58MHx8MHx8fDA%3D,"14 inch FHD display, up to 16 GB LPDDR5 memory, and up to 1 TB SSD storage. It runs on Windows 11 Home."
+7,SN1007,Microsoft Surface,Computers,999.99,550.00,12,https://images.unsplash.com/photo-1596347909615-401e4242b3b2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWljcm9zb2Z0JTIwU3VyZmFjZXxlbnwwfHwwfHx8MA%3D%3D,"12.3 inch PixelSense™ display, up to 16 GB RAM, and up to 1 TB SSD storage. It runs on Windows 11 Home or Pro."
+8,SN1008,HP Envy Desktop,Computers,899.99,450.00,18,https://plus.unsplash.com/premium_photo-1681816189679-fa02d1acd1de?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8SFAlMjBFbnZ5JTIwRGVza3RvcHxlbnwwfHwwfHx8MA%3D%3D,"12th Gen Intel® Core™ i7-12700 processor, up to 128 GB DDR4 memory, and up to 2 TB SSD storage.."
+9,SN2001,Apple iPad Air,Devices,599.99,300.00,12,,
+10,SN2002,Samsung Galaxy Tab,Devices,599.99,300.00,10,,
+11,SN2003,Amazon Fire HD,Devices,124.99,70.00,20,,
+12,SN2004,Microsoft Surface Go,Devices,399.99,200.00,15,,
+13,SN2005,Lenovo Tab Pro,Devices,450.00,200.00,8,,
+14,SN3001,HP LaserJet Printer,Office,180.00,90.00,16,,
+15,SN3002,Canon Inkjet Printer,Office,129.99,60.00,10,,
+16,SN3003, Fujitsu ScanSnap Scanner,Office,399.99,200.00,8,,
+17,SN3004,Brother ADS Wireless Scanner,Office,299.99,145.00,5,,
+18,SN3005,Lexmark Multifunction Printer,Office,249.99,115.00,6,,
+19,SN4001,Logitech Master Mouse,Peripherals,79.99,45.00,20,,
+20,SN4002,Microsoft Ergonomic Keyboard,Peripherals,59.99,25.00,25,,
+21,SN4003,Logitech HD Webcam,Peripherals,74.99,38.00,18,,
+22,SN4004,Razer DeathAdder Gaming Mouse,Peripherals,65.99,32.00,20,,
+23,SN4005,Blue Yeti USB Microphone,Peripherals,129.99,65.00,18,,
+24,SN4006,Jabra Evolve Headset,Peripherals,245.00,115.00,20,,
+25,SN5001,Samsung Portable SSD 1TB,Storage,129.99,60.00,8,,
+26,SN5002,SanDisk 128GB USB Flash Drive,Storage,29.99,15.00,12,,
+27,SN5003,WD 4TB External Hard Drive,Storage,99.99,45.00,10,,
+28,serial test,name test,catgegory test,0.00,0.00,1,null,
+29,test2,test2,test,0.00,0.00,1,null,
